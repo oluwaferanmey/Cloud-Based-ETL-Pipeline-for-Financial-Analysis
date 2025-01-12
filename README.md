@@ -115,11 +115,3 @@ Expand transformation logic to include currency conversion.
 
 Integrate with visualization tools for dashboard reporting.
 
-Contributing
-
-Feel free to submit issues or pull requests for enhancements and bug fixes.
-
-License
-
-This project is licensed under the MIT License.
-
